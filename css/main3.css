@@ -1,0 +1,22 @@
+.a{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.b{
+    background-color: white;
+    border-radius: 50%;
+}
+.c{
+    background-color: whitesmoke;
+}
+.v{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%; 
+    background-color: red;
+}
+.x{
+    background-color: red;
+    border-radius: 50%;
+}
